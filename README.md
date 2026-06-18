@@ -68,7 +68,7 @@ REDIRECT_URI = "http://localhost:8888/callback"
 
 2. Run the script:
 ```bash
-python spotify_terminal.py
+python main.py
 
 ```
 
