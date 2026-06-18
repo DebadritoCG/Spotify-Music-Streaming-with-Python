@@ -1,4 +1,4 @@
-Here is a sleek, developer-ready `README.md` template for your terminal Spotify player. It clearly breaks down how the project works, includes setup instructions for the Spotify Developer Dashboard, and features a prominent disclaimer about the Spotify Premium requirement.
+
 
 ---
 
